@@ -1,0 +1,19 @@
+{
+  "name": "com.agava.vkPlay",
+  "version": "1.0.0",
+  "displayName": "VK Play",
+  "type": "library",
+  "unity": "2022.3",
+  "description": "VK Play Unity SDK for the WebGL platform.",
+  "author": {
+    "name": "Chepurnov Dmitriy",
+  }
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Playtesting Sample",
+      "description": "Contains sample for uploading to VK PLay platform and manually testing the SDK.",
+      "path": "Samples~/Playtesting"
+    }
+  ]
+}
